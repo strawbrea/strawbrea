@@ -29,6 +29,6 @@ ________________________________________________________________________________
 
 <h6 align="center">[  f i n d  _ m e  ] </h6>
 
-<p align="center"> <a href="https://www.linkedin.com/in/breannalowery"> <img alt="linkedin" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" height="40"> <a href="https://discordapp.com/users/bee! ♡#5188"> <img alt="discord" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625eb604bb8605784489d361_Discord-Logo%2BWordmark-Color%20(1).png" height="40"> <a href="https://www.instagram.com/strawberry.almonds/"> <img alt="instagram" src="https://www.mvppub.ca/images/59-590993_follow-us-on-instagram-logo-png-clipart.png" height="45"> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/breannalowery" target="_blank" rel="noopener noreferrer"> <img alt="linkedin" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" height="40"> <a href="https://discordapp.com/users/bee! ♡#5188" target="_blank" rel="noopener noreferrer"> <img alt="discord" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/625eb604bb8605784489d361_Discord-Logo%2BWordmark-Color%20(1).png" height="40"> <a href="https://www.instagram.com/strawberry.almonds/" target="_blank" rel="noopener noreferrer"> <img alt="instagram" src="https://www.mvppub.ca/images/59-590993_follow-us-on-instagram-logo-png-clipart.png" height="45"> </p>
 
 <h6 align="center"> thank you for visiting ♡</h6>
