@@ -15,8 +15,8 @@ ________________________________________________________________________________
 
 
 <p align="left">♡----------------------------------------------------------private math tutor</p>
-<p align="right">computer engineering major-----------------------------------------------------♡</p>
-<p align="left">♡--------------------------------full time student at the university of akron</p>
+<p align="right">computer science major-----------------------------------------------------♡</p>
+<p align="left">♡--------------------------------full time student at kent state university</p>
 <p align="right"> magic: the gathering and platform-shoe enthusiast-----------------------------♡</p>
 
 ________________________________________________________________________________
